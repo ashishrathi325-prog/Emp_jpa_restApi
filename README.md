@@ -9,7 +9,7 @@ Essenatially these are the core task my API covers.
             4 WE use DELETEMAPPING to delete the employee By ID
 ## {HOW TO RUN }
    1 Clone the repository   
-                 git clone https://github.com/yourname/Emp_jpa_restApi.git
+                 git clone https://github.com/ashishrathi325/Emp_jpa_restApi.git
    2 Open the project in STS  or intellij IDEA   
    3 Make sure you have 
      >java8 or above
